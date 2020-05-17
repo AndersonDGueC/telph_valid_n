@@ -1,0 +1,8 @@
+body{
+    background-color: dimgray;
+    color: white;
+    text-align: center;
+}
+#num_val, #btn_send{
+    border-radius: 10px;
+}
